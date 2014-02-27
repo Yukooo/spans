@@ -19,6 +19,7 @@ public class MutableBlurMaskFilterSpan extends CharacterStyle implements UpdateA
     public void setRadius(float radius) {
         mRadius = radius;
         mFilter = new BlurMaskFilter(mRadius, BlurMaskFilter.Blur.NORMAL);
+		//TODO
     }
 
     public float getRadius() {

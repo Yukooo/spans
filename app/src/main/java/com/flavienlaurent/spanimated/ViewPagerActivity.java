@@ -48,6 +48,7 @@ public class ViewPagerActivity extends Activity {
                 if(DEBUG) Log.d(TAG, "onPageSelected:" + position);
                 mCurrentSelected = position;
                 mNextSelected = position;
+				//TODOTODO
             }
 
             @Override
