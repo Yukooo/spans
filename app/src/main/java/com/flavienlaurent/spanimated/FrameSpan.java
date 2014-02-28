@@ -17,9 +17,7 @@ public class FrameSpan extends ReplacementSpan {
         mPaint.setStyle(Paint.Style.STROKE);
         mPaint.setColor(Color.BLUE);
         mPaint.setAntiAlias(true);
-		//TODO//TODO//TODO
-		//RUKU
-    }
+   }
 
     @Override
     public int getSize(Paint paint, CharSequence text, int start, int end, Paint.FontMetricsInt fm) {
