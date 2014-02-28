@@ -17,7 +17,7 @@ public class FrameSpan extends ReplacementSpan {
         mPaint.setStyle(Paint.Style.STROKE);
         mPaint.setColor(Color.BLUE);
         mPaint.setAntiAlias(true);
-		//TODO
+		//TODO//TODO//TODO
     }
 
     @Override
