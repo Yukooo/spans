@@ -18,6 +18,7 @@ public class FrameSpan extends ReplacementSpan {
         mPaint.setColor(Color.BLUE);
         mPaint.setAntiAlias(true);
 		//TODO//TODO//TODO
+		//RUKU
     }
 
     @Override
